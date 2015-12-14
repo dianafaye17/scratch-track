@@ -1,6 +1,8 @@
 #ScratchTrack
 
+A songwriting app for creating, discovering, and providing ease-of-access to lyrics, guitar tabs, and audio recordings.
 
+Built with Angular, Express, Node, Foundation, and Postgres.
 
 ------------------------------------------------------------------------------------------------------------------------
 #API Endpoints
